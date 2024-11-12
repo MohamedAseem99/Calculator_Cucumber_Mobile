@@ -20,6 +20,7 @@ public class MainPage {
 	GenericMethods general;
 	
 //Test
+//Test
 	public MainPage(AndroidDriver<MobileElement> driver)
 	{
 		this.driver = driver;
