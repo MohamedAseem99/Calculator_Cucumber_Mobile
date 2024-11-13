@@ -19,8 +19,6 @@ public class MainPage {
 	SoftAssert asserts;
 	GenericMethods general;
 	
-//Test
-//Test
 	public MainPage(AndroidDriver<MobileElement> driver)
 	{
 		this.driver = driver;
