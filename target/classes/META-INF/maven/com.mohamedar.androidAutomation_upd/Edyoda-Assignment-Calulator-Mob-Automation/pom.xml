@@ -6,7 +6,7 @@
   <version>0.0.1-SNAPSHOT</version>
   <packaging>jar</packaging>
 
-  <name>Edyoda-Assignment-Calculator-Mob-Automation</name>
+  <name>Edyoda-Assignment-Calulator-Mob-Automation</name>
   <url>http://maven.apache.org</url>
 
   <properties>
@@ -63,5 +63,5 @@
 
 
   </dependencies>
-  <artifactId>Edyoda-Assignment-Calculator-Mob-Automation</artifactId>
+  <artifactId>Edyoda-Assignment-Calulator-Mob-Automation</artifactId>
 </project>

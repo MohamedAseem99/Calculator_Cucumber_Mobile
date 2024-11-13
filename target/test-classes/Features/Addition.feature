@@ -11,5 +11,5 @@ Feature: Addition of Numbers
 
     Examples: 
       | number1 | number2 |
-      | "15"    | "29"    |
-      | "29"    | "67"    |
+      | "19"    | "27"    |
+      | "25"    | "77"    |
